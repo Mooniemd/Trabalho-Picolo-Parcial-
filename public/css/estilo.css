@@ -30,7 +30,7 @@ body {
 }
 
 .zyzz:hover {
-  color: #94B49F;
+  color: #3A3335;
   transition: color 1s;
 }
 
@@ -57,6 +57,6 @@ h1{
 }
 
 .zyzz:hover a{
-  color:black;
+  color:#3A3335;
   transition: color 1s;
 }
